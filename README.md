@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ASP.NET CORE MVC**
 
-- 💬 Ask me about **react,C#,ASP.NET CORE MVC,ADO.NET,LINQ Query**
+- 💬 Ask me about **react,C#,ASP.NET CORE MVC,ADO.NET,LINQ Query,SQL**
 
 - 📫 How to reach me **awadheshg577@gmail.com**
 
