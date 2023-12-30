@@ -2,6 +2,11 @@
 <h1 align="center">Hi there! 👋 I'm Awadhesh Gupta</h1>
 <h3 align="center">Passionate Full-Stack Developer from Nepal</h3>
 
+<!-- Coding Image -->
+<p align="center">
+  <img src="https://your-coding-image-url.jpg" alt="Coding" width="500" />
+</p>
+
 <!-- Trophies and Profile Views -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -41,7 +46,10 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agupta800" alt="GitHub Streak Stats" />
 </p>
 
-<!-- Additional Information or Closing Note -->
+<!-- Additional Coding Image or Closing Note -->
+<p align="center">
+  <img src="https://your-additional-coding-image-url.jpg" alt="Coding" width="500" />
+</p>
 <p align="center">
   <em>Let's code something amazing together! 😊</em>
 </p>
