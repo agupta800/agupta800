@@ -1,24 +1,23 @@
-<h1 align="center">Hello there! 👋 I'm Awadhesh Gupta</h1>
+<!-- Header Section -->
+<h1 align="center">Hi there! 👋 I'm Awadhesh Gupta</h1>
 <h3 align="center">Passionate Full-Stack Developer from Nepal</h3>
 
+<!-- Trophies and Profile Views -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=agupta800" alt="agupta800" />
   </a>
 </p>
-
-<!-- Add the profile views counter -->
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=agupta800" alt="Profile Views" />
 </p>
 
-- 🌱 Currently expanding my skills in **ASP.NET CORE MVC**
-
+<!-- Skills and Learning Section -->
+- 🌱 Currently learning **ASP.NET CORE MVC**
 - 💬 Ask me about **React, C#, ASP.NET CORE MVC, ADO.NET, LINQ Query, SQL, PHP, LARAVEL, JAVA**
-
 - 📫 Reach me at **awadheshg577@gmail.com**
 
+<!-- Social Media Links -->
 <h3 align="center">Connect with Me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/awadhesh-gupta-b229ba21a/" target="blank">
@@ -29,6 +28,7 @@
   </a>
 </p>
 
+<!-- Languages and Tools Section -->
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
@@ -36,10 +36,12 @@
   <!-- Add more icons for your languages and tools here -->
 </p>
 
+<!-- GitHub Streak Stats -->
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agupta800" alt="GitHub Streak Stats" />
 </p>
 
----
-
-<p align="center">Let's code something amazing together! 😊</p>
+<!-- Additional Information or Closing Note -->
+<p align="center">
+  <em>Let's code something amazing together! 😊</em>
+</p>
