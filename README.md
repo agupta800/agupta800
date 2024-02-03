@@ -19,7 +19,7 @@
 
 <!-- Skills and Learning Section -->
 - 🌱 Currently learning **ASP.NET CORE MVC**
-- 💬 Ask me about **React, C#, ASP.NET CORE MVC, ADO.NET, LINQ Query, SQL, PHP, LARAVEL, JAVA**
+- 💬 Ask me about **React, C#, ASP.NET CORE MVC, ADO.NET,CSS,HTML,KendoUI, LINQ Query, SQL, PHP, LARAVEL, JAVA**
 - 📫 Reach me at **awadheshg577@gmail.com**
 
 <!-- Social Media Links -->
