@@ -5,8 +5,10 @@
 <!-- Coding Image -->
 <p align="center">
 <img src="https://octodex.github.com/images/manufacturetocat.png" alt="website" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-</p>
 
+  <img src="https://octodex.github.com/images/NUX_Octodex.gif" alt="website" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
+</p>
 <br>
 
 
