@@ -3,13 +3,16 @@
 <h3 align="center">Passionate Full-Stack Developer from Nepal</h3>
 
 <!-- Coding Image -->
-<p align="center">
-<img src="https://octodex.github.com/images/manufacturetocat.png" alt="website" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
-  <img src="https://octodex.github.com/images/NUX_Octodex.gif" alt="website" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
-</p>
-<br>
+<body style="margin: 0; padding: 0; height: 100%; display: flex; justify-content: center; align-items: center; background-color: #f0f0f0;">
+<div class="container" style="display: flex; flex-direction: row; width: 100%; max-width: 1000px;">
+  <div class="image" style="flex: 1; max-width: 50%;">
+    <img src="https://octodex.github.com/images/manufacturetocat.png" alt="website" style="width: 100%; height: auto; display: block;">
+  </div>
+  <div class="image" style="flex: 1; max-width: 50%;">
+    <img src="https://octodex.github.com/images/NUX_Octodex.gif" alt="website" style="width: 100%; height: auto; display: block;">
+  </div>
+</div>
+</body>
 
 
 
