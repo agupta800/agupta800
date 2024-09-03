@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hi there! 👋 I'm Awadhesh Gupta</h1>
-<h3 align="center">Passionate Full-Stack Developer from Nepal</h3>
+<h3 align="center">Passionate Full-Stack Developer from </h3>
 
 <!-- Coding Image -->
 <body style="margin: 0; padding: 0; height: 100%; display: flex; justify-content: center; align-items: center; background-color: #f0f0f0;">
